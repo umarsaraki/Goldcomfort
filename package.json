@@ -1,0 +1,14 @@
+{
+  "name": "goldcomfort-backend",
+  "version": "1.0.0",
+  "description": "GoldComfort real backend — zero npm dependencies, uses Node's built-in http and node:sqlite modules.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=22.5.0"
+  },
+  "license": "UNLICENSED",
+  "private": true
+}

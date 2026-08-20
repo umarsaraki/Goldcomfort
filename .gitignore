@@ -1,0 +1,14 @@
+# Never commit real secrets
+.env
+
+# The real database file — contains real user/reseller/order data, never commit it
+goldcomfort.db
+goldcomfort.db-shm
+goldcomfort.db-wal
+
+# Node
+node_modules/
+npm-debug.log
+
+# OS
+.DS_Store
